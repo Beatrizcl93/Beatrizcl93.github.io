@@ -1,4 +1,3 @@
-# Beatrizcl93.github.io
 <h1 align="center">Hi 👋, I'm Rosa Casano</h1>
 <h3 align="center">a software development student from Peru</h3>
 
