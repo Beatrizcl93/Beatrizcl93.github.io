@@ -42,4 +42,4 @@
   </div>
 
 ------
-Credit: [zillastar](https://github.com/zillastar)
+
